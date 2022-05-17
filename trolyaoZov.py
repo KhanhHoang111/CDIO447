@@ -114,6 +114,5 @@ while(flag==True):
         noi=("Tạm biệt, bảo trọng nhé..!")
 
     speak(noi)
-    
 
-
+#
